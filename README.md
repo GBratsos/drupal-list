@@ -39,8 +39,6 @@ This is my favourite Drupal modules and themes.
   - marinelli
   - bluemasters
   - andromeda
-
-
   - touchpro
   - tb_simply
   - tb_methys
