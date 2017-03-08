@@ -8,29 +8,48 @@ These are my favourite Drupal modules and themes.
 
 ## Drupal modules
   - admin_menu
-  - ctools
-  - devel
-  - mollom
-  - page_title
-  - pathauto
-  - token
-  - transliteration
+  - adminimal_admin_menu
+  - bean
+  - better_exposed_filters
   - captcha
   - ckeditor
+  - ctools
+  - devel
+  - ds
   - globalredirect
-  - google_Analytics
+  - google_analytics
+  - hierarchical_select
   - htmlpurifier
+  - i18n
   - jquery_update
-  - linkchecker
+  - l10n_update
+  - linkchecker?
+  - media
   - menu_attributes
+  - menu_block
   - metatag
+  - mollom
+  - nodequeue
+  - page_title
+  - pathauto
+  - plupload
   - recaptcha
+  - search_config
   - seo_checker
   - site_map
   - site_verify
+  - skinr
+  - taxonomy_manager
+  - token
+  - transliteration
   - views
+  - views_bulk_operations
+  - views_fieldsets
+  - webform
+  - webform_ajax
+  - webform_multifile
+  - wysiwyg_mediaembed
   - xmlsitemap
-
 
 ## Drupal themes
 
