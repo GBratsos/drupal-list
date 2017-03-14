@@ -39,6 +39,7 @@ These are my favourite Drupal modules and themes.
   - site_map
   - site_verify
   - skinr
+  - slick
   - taxonomy_manager
   - token
   - transliteration
