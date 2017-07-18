@@ -6,7 +6,15 @@ These are my favourite Drupal modules and themes.
 
 ![Drupal module, theme, tutorial list](images/drupalcat.png)
 
-## Drupal modules
+## Drupal 8 Modules
+  - admin_toolbar
+  - devel
+  - ds
+  - pathauto
+  - token
+  - transliteration
+
+## Drupal 7 modules
   - admin_menu
   - adminimal_admin_menu
   - bean
@@ -14,8 +22,6 @@ These are my favourite Drupal modules and themes.
   - captcha
   - ckeditor
   - ctools
-  - devel
-  - ds
   - globalredirect
   - google_analytics
   - hierarchical_select
