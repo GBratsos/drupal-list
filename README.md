@@ -53,6 +53,7 @@ These are my favourite Drupal modules and themes.
   - views
   - views_bulk_operations
   - views_fieldsets
+  - views_selective_filters
   - webform
   - webform_ajax
   - webform_multifile
