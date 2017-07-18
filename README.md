@@ -10,11 +10,12 @@ These are my favourite Drupal modules and themes.
   - admin_toolbar
   - devel
   - ds
+  - paragraphs
   - pathauto
   - token
   - transliteration
 
-## Drupal 7 modules
+## Drupal modules
   - admin_menu
   - adminimal_admin_menu
   - bean
